@@ -274,13 +274,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c32f23c00507f80f5e8180351a2ead9b:553386e28e399cdff74266d0d3b778b1
 #https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
 
-#EXTGRP:INDO-SPORTS
-#https://i.imgur.com/3openq8.png
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/TVRI%20SPORT.png",TVRI Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-
-
 #https://www.mncchannels.com/micro/MNC-Sport
 #EXTGRP:INDO-SPORTS
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://static.mncnow.id/images/channel/84189654/9280_r32.jpg",MNC Sports
@@ -312,8 +305,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #https://anevi-live-channel-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
-#EXTGRP:SPORTS
-#EXTINF:0 group-title="SPORTS" tvg-id="SPORTSTARS 4" tvg-logo="https://tv.qreatifku.my.id/images/s4.png",MNC Sports 4
+#EXTGRP:INDO-SPORTS
+#EXTINF:0 group-title="INDO-SPORTS" tvg-id="SPORTSTARS 4" tvg-logo="https://tv.qreatifku.my.id/images/s4.png",MNC Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
