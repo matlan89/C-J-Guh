@@ -274,6 +274,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c32f23c00507f80f5e8180351a2ead9b:553386e28e399cdff74266d0d3b778b1
 #https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+
+
 #https://www.mncchannels.com/micro/MNC-Sport
 #EXTGRP:INDO-SPORTS
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://static.mncnow.id/images/channel/84189654/9280_r32.jpg",MNC Sports
