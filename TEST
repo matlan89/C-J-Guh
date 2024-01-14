@@ -43,7 +43,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_pri
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8S3l8N6SxS+EFwXZ1kSdOg","kid":"3nYc0oWqKxwWINFt263gEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="107.astro" tvg-name="WARNA HD" group-title="AOTG All;Bahasa Malaysia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" ch-number="107",107 Astro Warna FHD A
+#EXTINF:-1 tvg-id="107.astro" tvg-name="WARNA HD" group-title="Live Only" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" ch-number="107",107 Astro Warna FHD A
 #EXTATTRFROMURL:https://rpwc.go-ott.workers.dev?auth=CdTzfLxXjrW5Jv9YHDew8B
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9989/default_ott.mpd
 
