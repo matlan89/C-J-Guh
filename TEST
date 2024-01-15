@@ -1,7 +1,11 @@
 ######NOTFORSALE###
 
 
-
+#EXTGRP: International 
+#EXTINF:-1, AXN Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
+https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
 
 
 
