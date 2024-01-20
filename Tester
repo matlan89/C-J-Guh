@@ -1,3 +1,24 @@
+
+#EXTINF:-1 tvg-id="Hallmark Movies and Mysteries" tvg-name="Hallmark Movies & Mysteries" group-title="MOVIES" tvg-logo="https://i.ibb.co/b3RzPzC/Hallmark-Movies-Mysteries.png",Hallmark movies & Mysteries
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+
+#EXTINF:-1 tvg-name="USBD270001633" tvg-name="Hallmark Movies & Mysteries" group-title="MOVIES" tvg-logo="https://i.ibb.co/b3RzPzC/Hallmark-Movies-Mysteries.png",Hallmark movies & More
+https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+
+#EXTINF:-1 tvg-id="BOX Movie 1.vn" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png" group-title="MOVIES",Box Movie 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sctvonline.vn
+http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="DramaHotPot" tvg-name="Drama HotPot" tvg-logo="https://i.ibb.co/3N7HbYG/Sooka-Drama-Hotpot.png",Drama HotPot
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
+
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
