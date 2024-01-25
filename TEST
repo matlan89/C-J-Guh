@@ -33,7 +33,8 @@ https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
 
 
 
-
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/2HOweFW.png",CINEMAX
+http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 
 
