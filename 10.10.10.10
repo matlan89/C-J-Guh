@@ -90,7 +90,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/142/default_primary.mpd
 
 
-#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-logo="https://aqfadtv.astradamy.com/logos/MolekFM.png",Molek FM (YouTube Live)
+#EXTINF:-1 group-title="RADIO" tvg-id="CHN" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/01/molek_fm-brandlogo.net_.png",Molek FM (YouTube Live)
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
 
 #EXTINF:-1 group-title="RADIO" tvg-id="CHN" ch-number="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
