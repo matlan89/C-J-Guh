@@ -1,9 +1,35 @@
-EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://tsepg.cf/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz,"
-
-
+EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://tsepg.cf/epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
 
 
 ########################################################################################################################################
 
 ################################################################ MY FREEVIEW ##################################################################################
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6fKn4EJ/Y7qabQxl2vQPmg", "kid":"ekpB3aNZlA5sjC/xIj13EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="" tvg-name="Astro AEC HD" group-title="Chinese" group-logo="https://vip.bosiptv.com/public/img/jd.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_AEC.png",306 ASTRO AEC
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5103/default_primary.mpd
+
+
+ 
+#EXTINF:-1 group-title="" ch-number="105" tvg-id="107" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png", 107 Drama Sangat 
+#EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
+#EXTINF:-1 tvg-id="SIAR" tvg-name="" group-title="" group-logo="https://vip.bosiptv.com/public/img/bc.jpg" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-01/siar-.png",SIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://www.starhubtvplus.com
+#EXTVLCOPT:http-user-agent=SookanTV_v1.47.95#EXTVLCOPT:http-icy-metadata=1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live31.mpd
+
